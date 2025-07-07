@@ -1,5 +1,6 @@
 
 # MATCER: MATLAB App for Quantitative Evaluation of Material Removal in Ceramic Machining
+**Version: v1.0.0**
 
 ## Overview
 
